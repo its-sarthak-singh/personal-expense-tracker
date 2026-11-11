@@ -119,7 +119,7 @@ Personal-Expense-Tracker/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rahulraj2007k-pixel/Personal-Expense-Tracker.git
+git clone https://github.com/its-sarthak-singh/Personal-Expense-Tracker.git
 ```
 
 ### 2. Open the Project
@@ -184,7 +184,7 @@ The application is deployed using:
 
 ## 👨‍💻 Author
 
-**Rahul Kumar**
+**Sarthak singh**
 
 ### Personal Expense Tracker
 
